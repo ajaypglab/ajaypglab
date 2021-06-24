@@ -11,5 +11,13 @@
     "keywords": [
         "Ajay PG Lab",
         "Ajay PG"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "ajaypglab/ajaypglab",
+    "author": {
+        "name": "Ajay PG",
+        "email": "ajaypglab@gmail.com",
+        "url": "https://github.com/ajaypglab/ajaypglab"
+    }
 }
