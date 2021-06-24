@@ -1,0 +1,7 @@
+{
+    "name": "ajaypglab",
+    "version": "1.0.0",
+    "bin": {
+        "ajaypglab": "index.js"
+    }
+}
