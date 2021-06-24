@@ -1,6 +1,6 @@
 {
     "name": "ajaypglab",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Get to know Ajay via npm. Just run `npx ajaypglab`.",
     "bin": {
         "ajaypglab": "index.js"
